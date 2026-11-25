@@ -4,8 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raj4rr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshkr-ai/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-r4rin.com-black?style=flat&logo=safari&logoColor=white)](https://r4rin.com)
+[![Rentstackinventory](https://img.shields.io/badge/Platform-rentstackinventory.com-FF5722?style=flat&logo=rocket&logoColor=white)](https://rentstackinventory.com/)
 [![Hawkify](https://img.shields.io/badge/Platform-Hawkify.in-FF5722?style=flat&logo=rocket&logoColor=white)](https://hawkify.in)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@raj4rr-181717?style=flat&logo=github&logoColor=white)](https://github.com/raj4rr)
+
 
 ---
 
